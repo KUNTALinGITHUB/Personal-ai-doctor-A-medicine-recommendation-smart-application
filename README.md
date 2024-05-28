@@ -1,1 +1,6 @@
 # Personal-ai-doctor-A-medicine-recommendation-smart-application
+
+Abstract
+The Personalized Medical Recommendation System is a state-of-the-art platform designed to help users manage their health effectively. Utilizing advanced machine learning models, the system analyzes user-input symptoms to accurately predict potential diseases. This innovative tool offers a user-friendly interface that allows for easy symptom input, leading to seamless user experiences. Upon disease prediction, the system provides tailored recommendations, including the top 5 medicines, prescription details, and workout routines.
+The platform operates through a Flask web application, ensuring accessibility from any location. Emphasizing user privacy and data security, the system adheres to the highest industry standards, ensuring the confidentiality of health information. Additionally, the system is designed for continuous improvement, with machine learning models that evolve as more data is collected, leading to increasingly accurate recommendations.
+This Personalized Medical Recommendation System empowers users to take control of their health by offering reliable and precise medical advice, making healthcare more accessible and personalized.
